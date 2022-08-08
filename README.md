@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abulrahman Hatem</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanhatem911&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanhatem911" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/abdelra87827997?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/abdelra87827997?s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/abdelra87827997?s=09" /></a> </p>
-
 - 🌱 I’m currently learning developing mobile applications **Flutter**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A8a6hqIaE6Tt0VyExyTCwwwe6OS5IaBb/view?usp=sharing](https://drive.google.com/file/d/1A8a6hqIaE6Tt0VyExyTCwwwe6OS5IaBb/view?usp=sharing)
