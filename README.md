@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning developing mobile applications **Flutter**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A8a6hqIaE6Tt0VyExyTCwwwe6OS5IaBb/view?usp=sharing](https://drive.google.com/file/d/1A8a6hqIaE6Tt0VyExyTCwwwe6OS5IaBb/view?usp=sharing)
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
