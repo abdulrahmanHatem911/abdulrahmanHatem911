@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
 </div>
+<h3 align="left">Connect with me:</h3>
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdulrahman-hatem-64780a210">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,8 +22,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
-#:man_technologist: About Me :
+# :man_technologist: About Me :
 - :telescope: Mobile app developer | Flutter
 I have created many great applications that you can view through the github website.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-hatem-64780a210)
